@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.name              = "coppola"
   s.version           = Coppola::VERSION
   s.authors            = ["Cédric Darné"]
-  s.email             = ["cedric.darne@c4mprod.com"]
+  s.email             = ["cedric.darne@gmail.com"]
   s.description       = "Functional and load testing library for APIs"
   s.summary           = "Define API scenarii and launch blockbusters!"
   s.homepage          = "https://github.com/cdarne/coppola"
